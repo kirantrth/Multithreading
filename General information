@@ -1,0 +1,7 @@
+pthread: multi-threading: multithreading
+--------
+'ftp://sourceware.org/pub/pthreads-win32'
+open above link in internet explorer, in chrome you wont be able to download zip file. The above link contains compiled pthread libs and includes
+
+How to integrate pthread library in visual studio (Follow installation steps as given in video):
+'https://www.youtube.com/watch?v=4GdTcqE0iqg'
